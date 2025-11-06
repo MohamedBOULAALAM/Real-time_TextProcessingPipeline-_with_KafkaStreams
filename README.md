@@ -93,7 +93,7 @@ input.filter((key, original) -> {
 ### 1. Cloner et démarrer Kafka
 
 ```bash
-git clone https://github.com/ton-pseudo/TP4-Kafka-Streams.git
+git clone https://github.com/MohamedBOULAALAM/Real-time_TextProcessingPipeline-_with_KafkaStreams.git
 cd TP4-Kafka-Streams
 docker-compose up -d
 ```
